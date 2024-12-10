@@ -1,12 +1,17 @@
-#btn{
-	background-color : black;
-	color : white;
-	border-radius : 5px;
+/* Initial State */
+#btn {
+    background-color: black; /* Background color */
+    color: white;            /* Font color */
+    border-radius: 5px;      /* Border radius */
+    border: none;            /* No border */
+    padding: 10px 20px;      /* Padding for better size */
+    cursor: pointer;         /* Pointer cursor on hover */
+    transition: all 0.3s ease; /* Smooth transition for hover effect */
 }
 
+/* Hover State */
 #btn:hover {
-	background-color : yellow;
-	color:black;
-	border-radius:30px
+    background-color: yellow; /* Background color on hover */
+    color: black;             /* Font color on hover */
+    border-radius: 30px;      /* Rounded corners on hover */
 }
-/* Your CSS Code here. */
