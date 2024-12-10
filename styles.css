@@ -4,9 +4,9 @@
     color: white;            /* Font color */
     border-radius: 5px;      /* Border radius */
     border: none;            /* No border */
-    padding: 10px 20px;      /* Padding for better size */
-    cursor: pointer;         /* Pointer cursor on hover */
-    transition: all 0.3s ease; /* Smooth transition for hover effect */
+    /* padding: 10px 20px;      /* Padding for better size */ */
+    /* cursor: pointer;         /* Pointer cursor on hover */
+    /* transition: all 0.3s ease; /* Smooth transition for hover effect */ */ */
 }
 
 /* Hover State */
